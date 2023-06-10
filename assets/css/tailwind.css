@@ -3736,6 +3736,7 @@ h6,
 .btn.btn-icon.btn-lg {
   height: 3rem;
   width: 3rem;
+  font-size: 2rem;
 }
 .btn.btn-icon.btn-sm {
   height: 2rem;
@@ -9336,7 +9337,7 @@ html[dir="rtl"] .tns-visually-hidden {
   position: fixed;
   width: 80px;
   height: 80px;
-  bottom: 60px;
+  bottom: 90px;
   right: 60px;
   background-color: #25d366;
   color: #fff;
