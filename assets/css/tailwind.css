@@ -9334,7 +9334,7 @@ html[dir="rtl"] .tns-visually-hidden {
 }
 
 .whatsapp {
-  position: fixed;
+  position: relative;
   width: 80px;
   height: 80px;
   bottom: 90px;
