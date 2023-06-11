@@ -5130,8 +5130,8 @@ h6,
 .background-effect .circles li:nth-child(8),
 .background-effect .circles li:nth-child(9),
 .background-effect .circles li:nth-child(10) {
-  height: 5rem;
-  width: 5rem;
+  height: 4rem;
+  width: 4rem;
 }
 .background-effect .circles li:nth-child(1) {
   inset-inline-start: 25%;
