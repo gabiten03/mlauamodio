@@ -338,6 +338,11 @@ video {
   max-width: 100%;
   height: auto;
 }
+
+.img2 {
+  max-width: 90%;
+  height: auto;
+}
 /* Make elements with the HTML hidden attribute stay hidden by default */
 [hidden] {
   display: none;
